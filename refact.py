@@ -69,10 +69,10 @@ class MailWorks():
 
 if __name__ == '__main__':
     
-    login = 'av.nezdanov@gmail.com'
-    password = 'uvgb1985'
+    login = 'login@gmail.com'
+    password = 'qwerty'
     subject = 'Subject'
-    recipients = ['nezdan@inbox.ru', 'beskonpanda@gmalil.com']
+    recipients = ['vasya@email.com', 'petya@email.com']
     message = 'Message'
     header = None
     
